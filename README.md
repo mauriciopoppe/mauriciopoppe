@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mauricio Poppe
 
-I'm a Software Engineer passionate about Infrastructure and Data Visualization. I love learning new languages, I like doing covers of music songs and ocassionally dance bachata. I write notes about these topics on my website [mauriciopoppe.com](https://mauriciopoppe.com).
+I'm a Software Engineer passionate about infrastructure and data visualization. I enjoy learning new languages, recording song covers, and occasionally dancing bachata. I write about these topics and more on my website, [mauriciopoppe.com](https://mauriciopoppe.com).
 
 ### Software
 
