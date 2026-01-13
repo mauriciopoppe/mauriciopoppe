@@ -8,7 +8,7 @@ I'm a Software Engineer passionate about infrastructure and data visualization. 
 |:---|:---|:---|
 | **[function-plot](https://github.com/mauriciopoppe/function-plot)** | A versatile 2d function plotter | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/function-plot.svg?style=social) |
 | **[pojoviz](https://github.com/mauriciopoppe/pojoviz)** | Visualize the object structure of many JavaScript libraries & frameworks | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/pojoviz.svg?style=social) |
-| **[greuler](https://github.com/mauriciopoppe/greuler)** | Graph theory visualizations | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/greuler.svg?style=social) |
+| **[greuler](https://github.com/mauriciopoppe/greuler)** | A JS library to create animations of graphs (math structure) | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/greuler.svg?style=social) |
 | **[quickhull3d](https://github.com/mauriciopoppe/quickhull3d)** | A JS library to find the convex hull of a finite set of 3d points | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/quickhull3d.svg?style=social) |
 | **[City Car Drive](https://github.com/mauriciopoppe/Three.js-City)** | A 3D interactive city with a car that can be driven around, built with Three.js | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/Three.js-City.svg?style=social) |
 | **[interval-arithmetic](https://github.com/mauriciopoppe/interval-arithmetic)** | An implementation of an algebraically closed interval system of the extended real number set | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/interval-arithmetic.svg?style=social) |
