@@ -14,11 +14,12 @@ I'm a Software Engineer passionate about infrastructure and data visualization. 
 | **[interval-arithmetic](https://github.com/mauriciopoppe/interval-arithmetic)** | An implementation of an algebraically closed interval system of the extended real number set | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/interval-arithmetic.svg?style=social) |
 | **[Subtitle Insights](https://github.com/mauriciopoppe/SubtitleInsights)** | Chrome extension to get insights from Youtube subtitles for learning languages. | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/SubtitleInsights.svg?style=social) |
 | **[My blog](https://github.com/mauriciopoppe/blog)** | This is my blog and I like to write notes about Life, Math and Computer Science. | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/blog.svg?style=social) |
+| **[kubernetes-playground](https://github.com/mauriciopoppe/kubernetes-playground)** | Notes about Kubernetes development | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/kubernetes-playground.svg?style=social) |
 | **[My dotfiles](https://github.com/mauriciopoppe/dotfiles)** | My dotfiles, always a work in progress | ![Stars](https://img.shields.io/github/stars/mauriciopoppe/dotfiles.svg?style=social) |
 
 #### Kubernetes
 
-I am a member of the SIG storage and kubernetes-csi communities on GitHub.
+I am a member of the Kubernetes, SIG storage and kubernetes-csi communities on GitHub.
 
 I am currently working on a long-term plan to refactor the Kubernetes storage codebase into a monorepo. This effort involves collaboration with engineers from several companies (including Alibaba, AWS, RedHat, VMware). More details can be found in the [KEP](https://github.com/kubernetes/enhancements/pull/5153).
 
