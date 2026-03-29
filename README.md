@@ -16,6 +16,7 @@ I'm a Software Engineer passionate about infrastructure and data visualization. 
 | **[My dotfiles](https://github.com/mauriciopoppe/dotfiles)** | My dotfiles, always a work in progress |
 | **[kubernetes-playground](https://github.com/mauriciopoppe/kubernetes-playground)** | Notes about Kubernetes development |
 | **[Subtitle Insights](https://github.com/mauriciopoppe/SubtitleInsights)** | Chrome extension to get insights from Youtube subtitles for learning languages. |
+| **[anki-decks](https://github.com/mauriciopoppe/anki-decks)** | Skills to enhance Anki cards to learn languages effectively |
 
 #### Kubernetes
 
