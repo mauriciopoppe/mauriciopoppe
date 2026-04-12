@@ -17,6 +17,8 @@ I'm a Software Engineer passionate about infrastructure and data visualization. 
 | **[kubernetes-playground](https://github.com/mauriciopoppe/kubernetes-playground)** | Notes about Kubernetes development |
 | **[Subtitle Insights](https://github.com/mauriciopoppe/SubtitleInsights)** | Chrome extension to get insights from Youtube subtitles for learning languages. |
 | **[anki-decks](https://github.com/mauriciopoppe/anki-decks)** | Skills to enhance Anki cards to learn languages effectively |
+| **[10 Min Abs Timer](https://service-10-min-perfect-abs-timer-673673358142.us-west1.run.app/)** | Personalized abs routine with 4 difficulties and mood-based playlists |
+| **[RatTrack NYC](https://rattrack-nyc-673673358142.us-west1.run.app/)** | App to track rat sightings with lat/long logging and stats |
 
 #### Kubernetes
 
