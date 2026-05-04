@@ -19,6 +19,8 @@ I'm a Software Engineer passionate about infrastructure and data visualization. 
 | **[anki-decks](https://github.com/mauriciopoppe/anki-decks)** | Skills to enhance Anki cards to learn languages effectively |
 | **[10 Min Abs Timer](https://service-10-min-perfect-abs-timer-673673358142.us-west1.run.app/)** | Personalized abs routine with 4 difficulties and mood-based playlists |
 | **[RatTrack NYC](https://rattrack-nyc-673673358142.us-west1.run.app/)** | App to track rat sightings with lat/long logging and stats |
+| **[epub-translation](https://github.com/mauriciopoppe/epub-translation)** | AI-agent-agnostic tool for translating EPUB files while preserving formatting and structure |
+| **[LLM Inference Simulator](https://llm-inference-673673358142.us-west1.run.app)** | A simulator to learn how inference metrics (TTFT, TPOT, TPS, nTPOT) relate to hardware, model, and load |
 
 #### Kubernetes
 
