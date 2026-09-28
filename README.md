@@ -1,41 +1,13 @@
 ### Hi there 👋, I'm Mauricio Poppe
 
-I'm a Software Engineer passionate about infrastructure and data visualization. I enjoy learning new languages, recording song covers, and occasionally dancing bachata. I write about these topics and more on my website, [mauriciopoppe.com](https://mauriciopoppe.com).
+I'm a software engineer focused on the intersection of Performance Engineering and AI/ML/HPC workloads running in Kubernetes.
 
-### Software
+In my free time I enjoy learning new languages, photography, recording song covers, and ocassionally dancing bachata.
 
-| Project | Description |
-|:---|:---|
-| **[function-plot](https://github.com/mauriciopoppe/function-plot)** | A versatile 2d function plotter |
-| **[greuler](https://github.com/mauriciopoppe/greuler)** | A JS library to create animations of graphs (math structure) |
-| **[pojoviz](https://github.com/mauriciopoppe/pojoviz)** | Visualize the object structure of many JavaScript libraries & frameworks |
-| **[City Car Drive](https://github.com/mauriciopoppe/Three.js-City)** | A 3D interactive city with a car that can be driven around, built with Three.js |
-| **[quickhull3d](https://github.com/mauriciopoppe/quickhull3d)** | A JS library to find the convex hull of a finite set of 3d points |
-| **[interval-arithmetic](https://github.com/mauriciopoppe/interval-arithmetic)** | An implementation of an algebraically closed interval system of the extended real number set |
-| **[My blog](https://github.com/mauriciopoppe/blog)** | This is my blog and I like to write notes about Life, Math and Computer Science. |
-| **[My dotfiles](https://github.com/mauriciopoppe/dotfiles)** | My dotfiles, always a work in progress |
-| **[kubernetes-playground](https://github.com/mauriciopoppe/kubernetes-playground)** | Notes about Kubernetes development |
-| **[Subtitle Insights](https://github.com/mauriciopoppe/SubtitleInsights)** | Chrome extension to get insights from Youtube subtitles for learning languages. |
-| **[anki-decks](https://github.com/mauriciopoppe/anki-decks)** | Skills to enhance Anki cards to learn languages effectively |
-| **[10 Min Abs Timer](https://service-10-min-perfect-abs-timer-673673358142.us-west1.run.app/)** | Personalized abs routine with 4 difficulties and mood-based playlists |
-| **[RatTrack NYC](https://rattrack-nyc-673673358142.us-west1.run.app/)** | App to track rat sightings with lat/long logging and stats |
-| **[epub-translation](https://github.com/mauriciopoppe/epub-translation)** | AI-agent-agnostic tool for translating EPUB files while preserving formatting and structure |
-| **[LLM Inference Simulator](https://llm-inference-673673358142.us-west1.run.app)** | A simulator to learn how inference metrics (TTFT, TPOT, TPS, nTPOT) relate to hardware, model, and load |
+### Explore
 
-#### Kubernetes
-
-I am a member of the Kubernetes, SIG storage and kubernetes-csi communities on GitHub.
-
-I am currently working on a long-term plan to refactor the Kubernetes CSI Sidecars codebases into a monorepo. This effort involves collaboration with engineers from several companies (including Alibaba, AWS, RedHat, VMware). More details can be found in the [KEP](https://github.com/kubernetes/enhancements/pull/5153).
-
-### Writing
-
-I've been writing notes since 2015, originally focusing on algorithms, visualization, and web development. Lately, I've been interested in learning and writing about topics beyond technology, such as documenting my life through journaling and vlogs, learning languages like French and Japanese, and making music (especially playing and dancing Bachata).
-
-- [Notes](https://mauriciopoppe.com/notes): All the notes I've written since 2015.
-
-### Talks
-
-I have given several public talks and presentations, from frontend development to infrastructure development with deep dives into Kubernetes storage internals. Some highlights include speaking 2x at KubeCon about the intersection of Storage and Windows and about how I debug Kubernetes with delve.
-
-- [Talks](https://mauriciopoppe.com/talks): A full list of my public talks and presentations.
+- [Notes](https://www.mauriciopoppe.com/notes/) - A graph of the notes I've written. I especially like writing about computer graphics and computing systems.
+  - [Computer Graphics Pipeline](https://www.mauriciopoppe.com/series/computer-graphics-pipeline/)
+  - [Systems Performance Engineering](https://www.mauriciopoppe.com/series/systems-performance-engineering/)
+- [Software](https://www.mauriciopoppe.com/software/) - Software that I've written.
+- [Talks](https://www.mauriciopoppe.com/talks/) - Talks that I've given.
